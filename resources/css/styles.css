@@ -1,3 +1,16 @@
-*{background-color:lemonchiffon}
-#contents {width: 250px;border: 1px solid;}
-div {padding: 20px;}
+*{
+  background-color:lemonchiffon
+}
+#contents{
+  width: 250px;
+  border: 1px solid;
+}
+div{
+  padding: 20px;
+}
+h1{
+  font-size:3rem;
+  font-align:center;
+  font-family:'Oswald', sans-serif;
+}
+
