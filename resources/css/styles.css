@@ -1,10 +1,17 @@
 *{
   background-color:lemonchiffon
 }
-#contents{
+a{
+  padding: 20px 0;
+}
+ul, ol{
   width: 250px;
   border: 1px solid;
+  padding: 20px 0;
 }
+li{
+  background-color:white;
+  padding: 20px 0;
 div{
   padding: 20px;
 }
@@ -12,5 +19,6 @@ h1{
   font-size:3rem;
   font-align:center;
   font-family:'Oswald', sans-serif;
+  padding: 20px 0;
 }
 
