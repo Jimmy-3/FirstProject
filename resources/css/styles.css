@@ -8,6 +8,7 @@ ul, ol{
   width: 250px;
   border: 1px solid;
   padding: 20px 0;
+  background-color:white;
 }
 li{
   background-color:white;
